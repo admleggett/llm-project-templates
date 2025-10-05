@@ -74,7 +74,7 @@ For minor fixes:
 ```bash
 # Fork the repository on GitHub
 # Clone your fork
-git clone https://github.com/YOUR-USERNAME/llm-project-templates.git
+git clone https://github.com/admleggett/llm-project-templates.git
 cd llm-project-templates
 
 # Create a branch

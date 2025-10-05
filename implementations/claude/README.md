@@ -29,7 +29,7 @@ Enhanced version that leverages Claude's artifact system. Best for:
 
 1. **Copy the raw URL** of your chosen bootstrap template:
    ```
-   https://raw.githubusercontent.com/YOUR-USERNAME/llm-project-templates/main/implementations/claude/bootstrap/base.md
+   https://raw.githubusercontent.com/admleggett/llm-project-templates/main/implementations/claude/bootstrap/base.md
    ```
 
 2. **Start a new Claude chat** and paste:

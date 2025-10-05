@@ -58,7 +58,7 @@ Copy everything below this line into a new Claude chat:
 ---
 
 Read and apply this bootstrap template:
-https://raw.githubusercontent.com/YOUR-USERNAME/llm-project-templates/main/implementations/claude/bootstrap/base.md
+https://raw.githubusercontent.com/admleggett/llm-project-templates/main/implementations/claude/bootstrap/base.md
 
 ## Project Context
 

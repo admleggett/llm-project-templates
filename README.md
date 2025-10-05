@@ -28,7 +28,7 @@ This repository provides templates that enable:
 
 1. Choose a bootstrap template:
    ```
-   https://raw.githubusercontent.com/YOUR-USERNAME/llm-project-templates/main/implementations/claude/bootstrap/base.md
+   https://raw.githubusercontent.com/admleggett/llm-project-templates/main/implementations/claude/bootstrap/base.md
    ```
 
 2. Start a new Claude chat:
