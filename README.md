@@ -73,6 +73,6 @@ llm-project-templates/
 
 We welcome implementations for other LLM platforms! See our [Contributing Guide](./docs/contributing.md).
 
-## License
+## Licence
 
-MIT License - See [LICENSE](./LICENSE) for details.
+MIT Licence - See [LICENSE](./LICENSE) for details.

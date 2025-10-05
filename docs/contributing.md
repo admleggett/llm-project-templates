@@ -276,7 +276,7 @@ When including code:
 **Usability:**
 - Easy to understand
 - Practical and actionable
-- Well-organized
+- Well-organised
 - Properly linked
 
 **Consistency:**
@@ -397,8 +397,8 @@ Contributors will be:
 - Check existing documentation
 - Reach out to maintainers
 
-## License
+## Licence
 
-By contributing, you agree that your contributions will be licensed under the same [MIT License](../LICENSE) as the project.
+By contributing, you agree that your contributions will be licensed under the same [MIT Licence](../LICENSE) as the project.
 
 Thank you for contributing to LLM Project Templates!

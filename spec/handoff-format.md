@@ -6,7 +6,7 @@ This document specifies the structure and content of session handoff prompts in 
 
 ## Status
 
-This is a living specification. Version 1.0 represents the initial standardization effort.
+This is a living specification. Version 1.0 represents the initial standardisation effort.
 
 ## Purpose
 

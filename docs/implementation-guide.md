@@ -300,7 +300,7 @@ If artifact created: reference artifact explicitly
 - Be specific about format requirements
 - Include concrete examples
 - Explain the "why" behind patterns
-- Provide customization points
+- Provide customisation points
 - Test on real projects first
 
 **Don't:**

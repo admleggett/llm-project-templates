@@ -86,10 +86,10 @@ Remember: At session end, say "snapshot" to generate the next prompt.
 - This template instructs Claude to continue the handoff pattern
 - Each generated prompt is self-contained and includes the bootstrap URL
 - The pattern perpetuates itself across sessions
-- Users can break the chain anytime or customize the next prompt before using it
+- Users can break the chain anytime or customise the next prompt before using it
 
 ---
 
 ## Initial Task
 
-[This section will be customized when you start a new project]
+[This section will be customised when you start a new project]

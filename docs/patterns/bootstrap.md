@@ -59,7 +59,7 @@ Use bootstrap templates when:
 - Defines workflow skeleton
 - Specifies handoff format
 - Includes pattern instructions
-- Provides customization points
+- Provides customisation points
 
 ### Concrete Template
 - Specializes abstract template for domain
@@ -75,7 +75,7 @@ Use bootstrap templates when:
 ## Collaborations
 
 1. User selects appropriate template
-2. User customizes template for specific project
+2. User customises template for specific project
 3. User provides template URL to LLM session
 4. LLM reads template and applies instructions
 5. Session follows template workflow
@@ -421,7 +421,7 @@ templates/
 
 **Start simple**: Use minimal templates first, add complexity as needed.
 
-**Customize freely**: Templates are starting points, not constraints.
+**Customise freely**: Templates are starting points, not constraints.
 
 **Share improvements**: Contribute enhancements back to community.
 

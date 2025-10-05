@@ -69,7 +69,7 @@ Reusable templates define:
 ### Starting a Project
 
 1. Choose or create a bootstrap template
-2. Customize with your project specifics
+2. Customise with your project specifics
 3. Paste into new LLM chat
 4. Begin work
 

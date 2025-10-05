@@ -30,10 +30,10 @@ This example demonstrates using the session handoff pattern for a multi-session 
 
 ### Session 2: Deep Dive Analysis
 
-**Objective**: Analyze effectiveness data for each intervention category
+**Objective**: Analyse effectiveness data for each intervention category
 
 **Accomplishments**:
-- Analyzed 15 key sources in detail
+- Analysed 15 key sources in detail
 - Quantified effectiveness metrics for each category
 - Identified top 5 intervention types
 - Noted implementation challenges

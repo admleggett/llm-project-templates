@@ -76,7 +76,7 @@ Consider adding the bootstrap template to your Claude Project's custom instructi
 Request artifacts for any substantial content you'll want to reference or iterate on across sessions.
 
 ### Triggering Snapshots
-You can customize the trigger word - just specify it in your initial prompt:
+You can customise the trigger word - just specify it in your initial prompt:
 ```
 Use "checkpoint" instead of "snapshot" to generate handoffs
 ```
@@ -130,4 +130,4 @@ Claude's 200K context means you can:
 
 - Explore [project templates](./project-templates/) for domain-specific workflows
 - Review [examples](./examples/) to see the pattern in action
-- Customize bootstrap templates for your specific needs
+- Customise bootstrap templates for your specific needs

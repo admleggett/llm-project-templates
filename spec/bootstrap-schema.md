@@ -6,7 +6,7 @@ This document specifies the structure and requirements for bootstrap templates i
 
 ## Status
 
-This is a living specification. Version 1.0 represents the initial standardization effort.
+This is a living specification. Version 1.0 represents the initial standardisation effort.
 
 ## Purpose
 
@@ -35,7 +35,7 @@ A conforming bootstrap template SHOULD:
 
 1. **Include version number**: Track template evolution
 2. **Provide examples**: Show what good handoffs look like
-3. **Document customization points**: Guide project-specific adaptation
+3. **Document customisation points**: Guide project-specific adaptation
 4. **Be self-contained**: Not require external dependencies
 5. **Explain the why**: Help users understand the pattern
 
@@ -284,7 +284,7 @@ Remember: Say "[TRIGGER]" to generate the next prompt.
 - This template instructs the LLM to continue the handoff pattern
 - Each generated prompt is self-contained and includes the bootstrap URL
 - The pattern perpetuates itself across sessions
-- Users can break the chain anytime or customize prompts before using
+- Users can break the chain anytime or customise prompts before using
 ```
 
 ### Example Handoff
@@ -381,7 +381,7 @@ What limitations or requirements exist? (frameworks, languages, etc.)
 ### Initial Task
 What should the first session focus on?
 
-You can also customize:
+You can also customise:
 - Trigger words (though "snapshot" is recommended for consistency)
 - Handoff sections (add domain-specific fields as needed)
 - Session numbering scheme (sequential, semantic versions, dates, etc.)
@@ -392,7 +392,7 @@ You can also customize:
 **Purpose**: Placeholder for project-specific work
 
 **Should**:
-- Clearly indicate this needs customization
+- Clearly indicate this needs customisation
 - Provide guidance on what to specify
 - Be last section of template
 
@@ -400,7 +400,7 @@ You can also customize:
 ```markdown
 ## Initial Task
 
-[This section will be customized when you start a new project. 
+[This section will be customised when you start a new project. 
 Specify what the first session should accomplish.]
 ```
 
@@ -570,7 +570,7 @@ A bootstrap template can be validated against these criteria:
 ## Overview
 
 This template establishes a minimal session handoff workflow for any 
-type of LLM project. Use this as a starting point and customize for 
+type of LLM project. Use this as a starting point and customise for 
 your specific needs.
 
 ## Workflow Pattern
@@ -649,7 +649,7 @@ Remember: Say "snapshot" when ready to generate the next handoff.
 
 - Each generated prompt is self-contained and includes the bootstrap URL
 - The pattern perpetuates itself across sessions
-- Users can break the chain anytime or customize prompts before using
+- Users can break the chain anytime or customise prompts before using
 - This template works with any LLM that can read URLs
 
 ## Example Handoff
@@ -731,14 +731,14 @@ How will you know when you're done?
 ### Initial Task
 What should the first session accomplish?
 
-You can also customize:
+You can also customise:
 - Trigger words (though "snapshot" is recommended)
 - Handoff sections (add what you need)
 - Session numbering approach
 
 ## Initial Task
 
-[This section will be customized when you start a new project. 
+[This section will be customised when you start a new project. 
 Describe what the first session should focus on and accomplish.]
 ```
 
